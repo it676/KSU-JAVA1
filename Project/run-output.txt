@@ -1,0 +1,98 @@
+run:
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :1
+Enter Book ISBN: 12340
+Enter Book Title: SherlockHolmes
+Enter Book Published Year: 1899
+Enter Book Author: Dolye
+SherlockHolmes has been added successfully !
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :1
+Enter Book ISBN: 34561
+Enter Book Title: Nemesis
+Enter Book Published Year: 1870
+Enter Book Author: Christi
+Failed to add : Nemesis , Please Check ISBN Again !
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :1
+Enter Book ISBN: 11220
+Enter Book Title: Stone
+Enter Book Published Year: 1970
+Enter Book Author: Gladwell
+Stone has been added successfully !
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :3
+Book ISBN Code: 12340
+Title: SherlockHolmes
+Author: Dolye
+Publishedyear: 1899
+a book reference: Do-Sh
+--------------------------------------
+Book ISBN Code: 11220
+Title: Stone
+Author: Gladwell
+Publishedyear: 1970
+a book reference: Gl-St
+--------------------------------------
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :2
+Enter Book ISBN: 11995
+Sorry , The Book was not found.
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :2
+Enter Book ISBN: 12340
+Book was found at index : 0
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :4
+Total Number of Books is : 2
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :8
+Invalid Choice ! [1-5 Allowed Only] 
+
+1. Add a new book.
+2. Find a Book.
+3. Display all books.
+4. Display the total number of books.
+5. Exit
+Enter Your Choice :5
+BUILD SUCCESSFUL (total time: 2 minutes 32 seconds)
